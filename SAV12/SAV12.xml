@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>Rhode Island Eelgrass Mapping Task Force</origin>
+<pubdate>20130214</pubdate>
+<title>Submerged Aquatic Vegetation (SAV) in Rhode Island Coastal Waters (2012); SAV12</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace>Kingston, RI</pubplace>
+<publish>University of Rhode Island</publish>
+</pubinfo>
+<othercit>
+Suggested bibliographic reference:
+RIGIS, 2013.  Submerged Aquatic Vegetation (SAV) in Rhode Island Coastal Waters (2012); SAV12.  Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 02 October 2014).
+</othercit>
+<onlink>http://www.crmc.ri.gov/</onlink>
+<onlink>http://www.rigis.org</onlink>
+<onlink>http://www.savebay.org/</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Polygons of submerged aquatic vegetation (SAV) were delineated from photo signatures identified on 4-band orthophotography. Ground truthing was done after initial delineations were completed. Ground truthing was done by boat using underwater video equipment and GPS. Final delineation and GIS database development was done using ground truth information. Over 235 delineations of eelgrass and widgeon grass were made, totaling 1,386 acres.</abstract>
+<purpose>The mapping was done as part of the 3-tiered approach to mapping and monitoring SAV as described by Neckles et al., 2012</purpose>
+<supplinf>Bradley, M., R. Hudson, M. Cole, and K, Raposa. 2013. 2012 Mapping Submerged Aquatic Vegetation (SAV) in Rhode Island Coastal Waters</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>20120628</begdate>
+<enddate>20120630</enddate>
+</rngdates>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-71.892664</westbc>
+<eastbc>-71.165500</eastbc>
+<northbc>41.688579</northbc>
+<southbc>41.173108</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>oceans</themekey>
+<themekey>biota</themekey>
+</theme>
+<theme>
+<themekt>none</themekt>
+<themekey>submerged aquatic vegation</themekey>
+<themekey>SAV</themekey>
+<themekey>eelgrass</themekey>
+<themekey>widgeon grass</themekey>
+<themekey>zostera</themekey>
+<themekey>ruppia</themekey>
+</theme>
+<place>
+<placekt>none</placekt>
+<placekey>Rhode Island</placekey>
+<placekey>New England</placekey>
+<placekey>Northeast</placekey>
+<placekey>United States</placekey>
+</place>
+</keywords>
+<accconst>None.</accconst>
+<useconst>
+Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgment of the RI Eelgrass Taskforce would be appreciated.
+This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products.  Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island - Environmental Data Center</cntorg>
+<cntper>Mike Bradley</cntper>
+</cntorgp>
+<cntpos>Research Associate</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>University of Rhode Island</address>
+<address>Department of Natural Resources Science</address>
+<address>105 Coastal Institute Kingston</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881-0804</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>mike@edc.uri.edu</cntemail>
+</cntinfo>
+</ptcontac>
+<native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.1.3143</native>
+</idinfo>
+<dataqual>
+<logic>Digitization was done using the snapping environment withing ArcGIS. Polygons with coincident boundaries make up &lt;1% of the data.</logic>
+<complete>Unknown. But 95.5% of the largest known SAV beds in Rhode Island coastal waters have been field visited</complete>
+<posacc>
+<horizpa>
+<horizpar>Data were collected using methods that are accurate to within 2-5 meters, although no formal tests were run.</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>Rhode Island Eelgrass Mapping Task Force, National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Coastal Services Center (CSC)</origin>
+<pubdate>201210</pubdate>
+<title>Rhode Island Eelgrass Mapping Task Force - 2012 Orthophotography Project</title>
+<geoform>remote-sensing image</geoform>
+<pubinfo>
+<pubplace>Kingston, RI</pubplace>
+<publish>University of Rhode Island Environmental Data Center</publish>
+</pubinfo>
+<onlink>http://www.rigis.org</onlink>
+</citeinfo>
+</srccite>
+<typesrc>Digital raster data.</typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>20120628</begdate>
+<enddate>20120630</enddate>
+</rngdates>
+</timeinfo>
+</srctime>
+<srccitea>2012 orthophotography</srccitea>
+</srcinfo>
+<procstep>
+<procdesc>Photography flown for study area, processed by contractor, submitted to the University of Rhode Island Environmental Data Center.</procdesc>
+<procdate>2012</procdate>
+<srcprod>2012 orthophotography</srcprod>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island - Environmental Data Center</cntorg>
+<cntper>Mike Bradley</cntper>
+</cntorgp>
+<cntpos>Research Associate</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>University of Rhode Island</address>
+<address>Department of Natural Resources Science</address>
+<address>105 Coastal Institute Kingston</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881-0804</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>mike@edc.uri.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Field delineations made (areas to be ground truthed) and ground truthing conducted.  GIS data development and final delineations made using the ground truth data.</procdesc>
+<srcused>2012 orthophotography</srcused>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island - Environmental Data Center</cntorg>
+<cntper>Mike Bradley</cntper>
+</cntorgp>
+<cntpos>Research Associate</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>University of Rhode Island</address>
+<address>Department of Natural Resources Science</address>
+<address>105 Coastal Institute Kingston</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881-0804</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>mike@edc.uri.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Data contributed to RIGIS by the University of Rhode Island Environmental Data Center.  Metadata were reviewed, updates made to content, RIGIS distribution information added.</procdesc>
+<procdate>20130501</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Greg Bonynge</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-2180</cntvoice>
+<cntemail>greg@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>GT-polygon composed of chains</sdtstype>
+<ptvctcnt>235</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<mapproj>
+<mapprojn>NAD 1983 StatePlane Rhode Island FIPS 3800 Feet</mapprojn>
+<transmer>
+<sfctrmer>0.99999375</sfctrmer>
+<longcm>-71.5</longcm>
+<latprjo>41.08333333333334</latprjo>
+<feast>328083.3333333333</feast>
+<fnorth>0.0</fnorth>
+</transmer>
+</mapproj>
+<planci>
+<plance>coordinate pair</plance>
+<coordrep>
+<absres>0.000000007286382608384659</absres>
+<ordres>0.000000007286382608384659</ordres>
+</coordrep>
+<plandu>foot_us</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>D North American 1983</horizdn>
+<ellips>GRS 1980</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.257222101</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>SAV12</enttypl>
+</enttyp>
+<attr>
+<attrlabl>FID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+<udom>Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>area_hec</attrlabl>
+<attrdef>Calculated area of polygon in hectares.</attrdef>
+<attrdefs>University of Rhode Island - Environmental Data Center</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0.01</rdommin>
+<rdommax>42.4</rdommax>
+<attrunit>hectare</attrunit>
+<attrmres>0.01</attrmres>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>area_acre</attrlabl>
+<attrdef>Calculated area of polygon in hectares.</attrdef>
+<attrdefs>University of Rhode Island - Environmental Data Center</attrdefs>
+<attrdomv>
+<rdom>
+<rdommin>0.01</rdommin>
+<rdommax>104.9</rdommax>
+<attrunit>acre</attrunit>
+<attrmres>0.01</attrmres>
+</rdom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>habitat</attrlabl>
+<attrdef>Habitat of the polygon as interpreted by field data and photo signatures.</attrdef>
+<attrdefs>University of Rhode Island - Environmental Data Center</attrdefs>
+<attrdomv>
+<edom>
+<edomv>eelgrass</edomv>
+<edomvd>Site habitat characterized as eelgrass.</edomvd>
+<edomvds>University of Rhode Island - Environmental Data Center</edomvds>
+</edom>
+<edom>
+<edomv>widgeon grass</edomv>
+<edomvd>Site habitat characterized as widgeon grass.</edomvd>
+<edomvds>University of Rhode Island - Environmental Data Center</edomvds>
+</edom>
+<edom>
+<edomv>widgeon grass and eelgrass</edomv>
+<edomvd>Site habitat characterized as interspersed with eelgrass and widgeon grass.</edomvd>
+<edomvds>University of Rhode Island - Environmental Data Center</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>g_truth</attrlabl>
+<attrdef>Information on when the site was last ground truthed.  '2012' = polygon was field visited in 2012; 'Historical' = polygon has been field visited recently (5-10 years ago); 'No'= polygon has not been field visited.</attrdef>
+<attrdefs>University of Rhode Island - Environmental Data Center</attrdefs>
+<attrdomv>
+<edom>
+<edomv>2012</edomv>
+<edomvd>Site was field visited in 2012.</edomvd>
+<edomvds>University of Rhode Island - Environmental Data Center</edomvds>
+</edom>
+<edom>
+<edomv>Historical</edomv>
+<edomvd>Site has been field visited relatively recently (approximately 5-10 years previous to year 2012).</edomvd>
+<edomvds>University of Rhode Island - Environmental Data Center</edomvds>
+</edom>
+<edom>
+<edomv>No</edomv>
+<edomvd>Site has not been field visited.</edomvd>
+<edomvds>University of Rhode Island - Environmental Data Center</edomvds>
+</edom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>g_truth_me</attrlabl>
+<attrdef>Brief description of the method used for ground truthing the site.</attrdef>
+<attrdefs>University of Rhode Island - Environmental Data Center</attrdefs>
+<attrdomv>
+<udom>Free text.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl>site</attrlabl>
+<attrdef>Name of the site - used to help group sites together.</attrdef>
+<attrdefs>University of Rhode Island - Environmental Data Center</attrdefs>
+<attrdomv>
+<udom>Free text.</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>erica@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</distrib>
+<distliab>This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Esri shapefile</formname>
+<filedec>ZIP</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.rigis.org</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20130321</metd>
+<metrd>20130501</metrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island - Environmental Data Center</cntorg>
+<cntper>Mike Bradley</cntper>
+</cntorgp>
+<cntpos>Research Associate</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>University of Rhode Island</address>
+<address>Department of Natural Resources Science</address>
+<address>105 Coastal Institute Kingston</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881-0804</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>401-874-5054</cntvoice>
+<cntemail>mike@edc.uri.edu</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>
